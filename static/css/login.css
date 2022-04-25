@@ -1,0 +1,47 @@
+/*body font*/
+@import url('https://fonts.googleapis.com/css2?family=Akshar:wght@700&family=Oswald:wght@200;500;600;700&family=Raleway:ital,wght@1,700&family=Roboto+Slab:wght@400;500&display=swap');
+
+.login{
+    background: var(--color5);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 100vh;
+    border-radius: 10px;
+}
+
+.body{
+    text-align: center;
+}
+
+.card{
+    max-width: 320px;
+    /*width: 100%;*/
+    background: var(--color11);
+    padding: 5px;    
+    box-shadow: 3px 3px 15px 3px rgb(240, 238, 238);
+    padding-top: 5px;
+
+}
+
+.card button{
+    margin-bottom: 0;
+    font-family: 'Oswald', sans-serif;
+    text-align: center;
+    text-transform: uppercase;
+    background-color: var(--color11);
+    font-size:30px;
+    color: var(--color8);
+    
+}
+
+.login_1 {
+    color: var(--color4);
+    font-size:128px;
+    text-transform: uppercase;
+    writing-mode: vertical-lr;
+    margin-right: 0;
+    font-family: 'Oswald', sans-serif;
+     
+    }

@@ -1,0 +1,154 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "user": "admin",
+      "pass": "admin",
+      "status": true
+    },
+    {
+      "id": 1,
+      "user": "admin2",
+      "pass": "admin2",
+      "status": false
+    }
+  ],
+  "products": [
+    {
+      "name": "uvas",
+      "total": "0",
+      "id": 6
+    },
+    {
+      "name": "manzanas",
+      "total": "89",
+      "id": 7
+    },
+    {
+      "name": "lapices",
+      "total": "2",
+      "id": 8
+    },
+    {
+      "name": "Espinacas",
+      "total": "8",
+      "id": 9
+    },
+    {
+      "name": "perejil",
+      "total": "78",
+      "id": 10
+    },
+    {
+      "name": "cilantro",
+      "total": "9",
+      "id": 11
+    },
+    {
+      "name": "apio",
+      "total": "98",
+      "id": 12
+    },
+    {
+      "name": "azúcar",
+      "total": "2",
+      "id": 13
+    },
+    {
+      "name": "papel",
+      "detail": null,
+      "total": "1",
+      "id": 15
+    },
+    {
+      "name": "papel",
+      "total": "1",
+      "id": 17
+    },
+    {
+      "name": "lentejas",
+      "total": "1",
+      "id": 18
+    },
+    {
+      "name": "cebolla",
+      "total": "55",
+      "id": 19
+    },
+    {
+      "name": "aceite",
+      "total": "3",
+      "id": 20
+    },
+    {
+      "name": "Sal",
+      "total": "9",
+      "id": 21
+    },
+    {
+      "name": "sanitizante",
+      "total": "9",
+      "id": 22
+    },
+    {
+      "name": "balde",
+      "total": "9",
+      "id": 23
+    },
+    {
+      "name": "Barbijo",
+      "total": "3",
+      "id": 24
+    },
+    {
+      "name": "maceta",
+      "total": "6",
+      "id": 25
+    },
+    {
+      "name": "regadera",
+      "total": "1",
+      "id": 26
+    },
+    {
+      "name": "pala",
+      "total": "7",
+      "id": 27
+    },
+    {
+      "name": "lapiz",
+      "total": "8",
+      "id": 28
+    },
+    {
+      "name": "parlante",
+      "total": "6",
+      "id": 29
+    },
+    {
+      "name": "lámpara",
+      "total": "1",
+      "id": 30
+    },
+    {
+      "name": "proyector",
+      "total": "44",
+      "id": 31
+    },
+    {
+      "name": "pincel",
+      "total": "68",
+      "id": 32
+    },
+    {
+      "name": "vaso",
+      "total": "1",
+      "id": 33
+    },
+    {
+      "name": "escobas",
+      "total": "1",
+      "id": 34
+    }
+  ]
+}
